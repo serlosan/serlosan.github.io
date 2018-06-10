@@ -1,7 +1,8 @@
 ---
 layout: default
+title: About me
 ---
 
-# Page under construction
+# About me
 
 This site will be available as soon as possible.
