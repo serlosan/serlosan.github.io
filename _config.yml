@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Sergio López-Sancio
 description: I am a PhD candidate in Psycholinguistics at the University of the Basque Country (UPV/EHU).
-logo: [https://serlosan.github.io/img/profile.jpg]
+logo: /img/profile.jpg
