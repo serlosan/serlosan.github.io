@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Page under construction.
+Please find a copy of my CV [here](http://www.google.es).
