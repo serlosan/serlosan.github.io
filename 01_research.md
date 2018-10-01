@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Presentations in peer-reviewed conferences
+### Presentations in peer-reviewed conferences
 
 1.	**López-Sancio**, S. & Laka, I. (2019). Dependency type modulates island effects: Evidence from Spanish, Talk at the *93rd Annual Meeting of the Linguistic Society of America*, New York City, USA, January 3–6, 2019 [accepted]. 
 2.	**López-Sancio**, S. & Lau, E. (2018). ERP indices of encoding effects in wh-dependency comprehension, Poster at *AMLaP 2018*, Humboldt University, Germany, September 6–8, 2018. 
