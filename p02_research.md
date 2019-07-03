@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Presentations in refereed conferences
 
-1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Poster at *Crosslinguistic Perspectives on Processing and Learning (X- PPL 2019)*, Zurich, Switzerland, November 4–5, 2019.
+1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Talk at *Crosslinguistic Perspectives on Processing and Learning (X- PPL 2019)*, Zurich, Switzerland, November 4–5, 2019.
 1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Poster at *AMLaP 2019*, Moscow, Russia, September 6–8, 2019.
 1.	**López-Sancio**, S. & Laka, I. (2019). Locality in unbounded and local dependencies in Spanish, Poster at *AMLaP 2019*, Moscow, Russia, September 6–8, 2019.
 1.	**López-Sancio**, S. & Laka, I. (2019). Dependency type modulates island effects: Evidence from Spanish, Talk at the *93rd Annual Meeting of the Linguistic Society of America*, New York City, USA, January 3–6, 2019. [[abstract](https://github.com/serlosan/Islands/raw/master/López-Sancio%20%26%20Laka%202019%20(LSA).pdf), [materials](https://github.com/serlosan/Islands/blob/master/Materials.xlsx?raw=true)]
