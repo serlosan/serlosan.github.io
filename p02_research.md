@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Presentations in refereed conferences
+### Presentations in peer-reviewed conferences
 
 1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Talk at *Crosslinguistic Perspectives on Processing and Learning (X- PPL 2019)*, Zurich, Switzerland, November 4–5, 2019.
 1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Poster at *AMLaP 2019*, Moscow, Russia, September 6–8, 2019.
