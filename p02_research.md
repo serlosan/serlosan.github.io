@@ -6,6 +6,7 @@ permalink: /research/
 
 ### Presentations in peer-reviewed conferences
 
+1.	**López-Sancio**, S. & Laka, I. (2020). Efectos de localidad en dependencias locales y no locales en español, Talk at *XLIX Simposio de la Sociedad Española de Lingüística*, Tarragona, Spain, January 21–24, 2019.
 1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Talk at *Crosslinguistic Perspectives on Processing and Learning (X- PPL 2019)*, Zurich, Switzerland, November 4–5, 2019.
 1.	**López-Sancio**, S., Ros, I. & Laka, I. (2019). Antilocality effects in main clauses: Evidence from Basque, Poster at *AMLaP 2019*, Moscow, Russia, September 6–8, 2019.
 1.	**López-Sancio**, S. & Laka, I. (2019). Locality in unbounded and local dependencies in Spanish, Poster at *AMLaP 2019*, Moscow, Russia, September 6–8, 2019.
