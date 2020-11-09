@@ -9,4 +9,4 @@ I graduated from the University of the Basque Country (UPV/EHU) with a doctoral 
 
 ![Guggenheim and I](http://www.ehu.eus/HEB/wp-content/uploads/2015/11/Foto-grande.jpg#right){:height="75%" width="75%"}
 
-Last update: June 2019
+Last update: November 2020
